@@ -9,3 +9,10 @@ For downloading YouTube - https://www.freemake.com/free_video_downloader_skillfu
 
 For Transcription - https://riverside.fm/transcription 
 
+---
+
+- Date: 20/08/24
+- Title: Aligning an Interoperable Multi-Chain Future
+- Links: https://x.com/alignedlayer/status/1825939500855603273
+
+---
