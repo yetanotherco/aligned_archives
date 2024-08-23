@@ -22,7 +22,7 @@ Current folders are /xspace and /video.
 
 Your file should contain a header using the below format.
 
-Once you have submitted your PR, please send us the link via a support ticket in our (Discord.)[https://discord.gg/alignedlayer]
+Once you have submitted your PR, please send us the link via a support ticket in our [Discord].(https://discord.gg/alignedlayer)
 
 --
 
