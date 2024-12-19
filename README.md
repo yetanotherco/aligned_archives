@@ -3,7 +3,7 @@ Transcripts of Aligned media archives for public use, designed to feed your LLM.
 
 **Process for adding new media:**
 
-For downloading Twitter spaces - [Lychee](https://www.lychee.so/download-space)
+For downloading X (formerly Twitter) spaces - [Lychee](https://www.lychee.so/download-space)
 
 For downloading YouTube - [Freemake](https://www.freemake.com/free_video_downloader_skillful)
 
